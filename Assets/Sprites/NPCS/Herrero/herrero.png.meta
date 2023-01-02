@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -310,6 +310,27 @@ TextureImporter:
       bones: []
       spriteID: 5d69bea86a30b1e4181009d5643710dc
       internalID: -848950716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herrero_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 4
+        width: 128
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39e5f5c034b03042842a09118b1d3d6
+      internalID: 158488416
       vertices: []
       indices: 
       edges: []
@@ -798,6 +819,7 @@ TextureImporter:
       herrero_7: 1960822699
       herrero_5: 345462750
       herrero_0: 1161959135
+      herrero_10: 158488416
       herrero_6: 1012539076
   spritePackingTag: 
   pSDRemoveMatte: 0
